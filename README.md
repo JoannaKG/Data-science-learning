@@ -1,3 +1,3 @@
 # Kaggle
 
-This is collection of projects regarding learning of data science toolbox.
+This is collection of projects regarding learning of data scientist toolbox.
